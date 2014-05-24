@@ -2,7 +2,7 @@
 layout: post
 title: "处女作"
 description: "处女作"
-category: essay
+category: woii
 tags: [WOII]
 ---
 
