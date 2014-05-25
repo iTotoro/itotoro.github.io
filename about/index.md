@@ -24,7 +24,7 @@ why？
 
 ###Touch me (抚摸我)：
 
-Email: [navyoyo@gmail.com](mailto:navyoyo@gmail.com)     
+Email: [woii.root@gmail.com](mailto:woii.root@gmail.com)     
 Weibo: [大大大涅子](http://weibo.com/tianyumumu)	   
 github : [iTotoro](https://github.com/itotoro)        
 
